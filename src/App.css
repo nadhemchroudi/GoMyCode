@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  padding: 10px 500px;
+  background-image:url("https://www.fieldstonecommunities.com/wp-content/uploads/2016/08/Form-Background.jpg") ;
+
+}
+.title {
+  padding-bottom: 10px;
+}
+.button {
+  margin-left: 375px;
+}
+.title {
+  color: aliceblue;
+}
+.image {
+  color: aliceblue;
+}
