@@ -1,0 +1,9 @@
+.App {
+    border: solid 1px black;
+    max-width: 100vw;
+    display: flex;
+    align-items: center;
+}
+.title_red {
+    color: red;
+}
