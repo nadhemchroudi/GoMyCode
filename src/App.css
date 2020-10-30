@@ -1,8 +1,12 @@
 .App {
-    border: solid 1px black;
     max-width: 100vw;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+
+}
+.photo {
+    height: 200px;
 }
 .title_red {
     color: red;
