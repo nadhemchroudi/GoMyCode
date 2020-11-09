@@ -1,9 +1,5 @@
 .App {
-    max-width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
+    display: inline;
 }
 .photo {
     height: 200px;
